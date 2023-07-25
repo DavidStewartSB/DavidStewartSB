@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é David Stewart. Sou <strong>Estudante</strong> e <strong>Desenvolvedor FullStack</strong>.
+  🌎 Olá, meu nome é David Stewart. Sou <strong>Desenvolvedor FullStack Web</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, Bootstrap, JavaScript, TypeScript, C#, .Net, Angular, Nodejs e um tico de React.</strong>
+  🦄 Habilidades: <strong>Front-end, TypeScript, C#, .Net, Angular, Nodejs, Wordpress e PHP</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Visual Studio 2019, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Visual Studio 2022, Git, Figma e Azure DevOps</strong>
 </p>
 
 <p align="left">
